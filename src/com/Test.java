@@ -1,0 +1,15 @@
+package com;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("hi........");
+		System.out.println("Test2 build from jenkins done");
+		System.out.println("end.....");
+		
+		
+
+	}
+
+}

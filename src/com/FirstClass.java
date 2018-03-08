@@ -1,15 +1,12 @@
 package com;
 
-public class FirstClass {
+public class FirstClass{
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//
-		System.out.println("hi....");
+		System.out.println("user 1");
+		System.out.pritln("user 2");
 		
-		System.out.println("hi....");
-		System.out.println("hi....");
-
+		
 	}
 
 }
