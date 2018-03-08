@@ -8,8 +8,11 @@ public class FirstClass {
 		System.out.println(); 
 		System.out.println("hi man this is from user1");
 		
-		
+
 		//
+		System.out.println("Hi user2 going on fire....");
+		//now user 2 commenting
+
 
 	}
 
